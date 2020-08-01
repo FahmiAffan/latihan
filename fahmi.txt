@@ -2,3 +2,5 @@ cara kirim file di github
 1.) git add .
 2.) git commit -m "ini pesan komit mu"
 3.) git push origin master
+
+ini tambahan kode
